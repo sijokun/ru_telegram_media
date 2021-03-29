@@ -1,38 +1,57 @@
 - name: "Ateobreaking"
   messages: 26200
+  words: 437665
 - name: "aavst55"
   messages: 11600
+  words: 394765
 - name: "bazabazon"
   messages: 6300
+  words: 412483
 - name: "bbcrussian"
   messages: 15700
+  words: 654584
 - name: "echomskru"
   messages: 26100
+  words: 1405738
 - name: "meduzalive"
   messages: 40000
+  words: 1377548
 - name: "navalny"
   messages: 2900
+  words: 177563
 - name: "paperpaper_ru"
   messages: 10100
+  words: 334502
 - name: "rbc_news"
   messages: 26400
+  words: 1451596
 - name: "rian_ru"
   messages: 87400
+  words: 1772434
 - name: "rt_russian"
   messages: 61700
+  words: 3179832
 - name: "sotavision"
   messages: 17700
+  words: 534079
 - name: "tardigrada_agency"
   messages: 800
+  words: 57067
 - name: "tsargradtv"
   messages: 4600
+  words: 165864
 - name: "tvrain"
   messages: 4600
+  words: 1288672
 - name: "varlamov_news"
   messages: 22200
+  words: 510154
 - name: "volnitsadigital"
   messages: 300
+  words: 4350
 - name: "novaya_pishet"
   messages: 20400
+  words: 838273
 - name: "breakingmash"
   messages: 24000
+  words: 1105260
